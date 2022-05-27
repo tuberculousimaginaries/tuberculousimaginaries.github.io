@@ -41,29 +41,29 @@ remote_theme: kalanicraig/community-archive-jekyll
 #---------------------
 
 # Title of your website
-title: "IDAH@IU"
+title: "Tuberculous Imaginaries"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An Archive of Our Community's Heirlooms"
+subtitle: "A Medical History Installation"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Community Archiving Site"
+description: "This installation describes the history of medical research into tuberculosis at the turn of the twentieth century. It ran during May, 2022 at the IFell Gallery in Bloomington, Indiana."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "IDAH@IU"
-authorname : "Institute for Digital Arts and Humanities"
+author: "Sean Purcell"
+authorname : "Sean Purcell PhD Candidate"
 sitelogo: "site_logo.jpg"
 
 # What year did you start up this community project?
 sitedate : 2022
 
 # Other community social media. Leave blank if you don't have these.
-email : "idah [at] iu.edu"
-website : "https://idah.indiana.edu/"
-twitter : "IDAH_IU"
-github : "idahatiu"
-facebook : "idahatiu"
+email : "spurcel [at] iu [dot] edu"
+website : "seanpurcell.net"
+twitter : 
+github : 
+facebook : 
 instagram : 
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
@@ -82,19 +82,19 @@ google_g4_analytics_id:
 #fontchoice: baloo # A clean sans-serif font with a playful rounded sans-serif accent
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
-#fontchoice: roboto # A clean sans-serif font with simple serif accents
-fontchoice: slab # A funky slab font with clean sans-serif accents
+fontchoice: roboto # A clean sans-serif font with simple serif accents
+#fontchoice: slab # A funky slab font with clean sans-serif accents
 #fontchoice: source # A modern serif font with clean sans-serif accents
 
 # Choose the COLORS you'd like to use.
 # You can see these color choices in action at https://kalanicraig.com/community-archive/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
-#colorchoice: navy # Navy with bright teal and grey
+colorchoice: navy # Navy with bright teal and grey
 #colorchoice: leafgreen # Leafy green and medium brown
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
-colorchoice: marigold # Near-black with marigold yellow
+#colorchoice: marigold # Near-black with marigold yellow
 #colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: dusk # Dusky purple and olive green
