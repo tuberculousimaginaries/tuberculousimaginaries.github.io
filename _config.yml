@@ -61,10 +61,10 @@ sitedate : 2022
 # Other community social media. Leave blank if you don't have these.
 email : "spurcel [at] iu [dot] edu"
 website : "seanpurcell.net"
-twitter : 
-github : 
-facebook : 
-instagram : 
+twitter : ""
+github : ""
+facebook : ""
+instagram : ""
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
